@@ -1,0 +1,19 @@
+h3 {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.container {
+    max-width: 300px;
+    margin: 20px; 
+}
+
+.project-desc {
+    font-size: 10px;
+}
